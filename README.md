@@ -1,1 +1,1 @@
-# httpclient
+# 这是一个整合SSM的项目模板
